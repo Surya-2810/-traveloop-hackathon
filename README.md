@@ -16,5 +16,4 @@ AI-powered personalized travel planning platform.
 - PostgreSQL
 - TailwindCSS
 
-## Team
-Phoenix Force
+
